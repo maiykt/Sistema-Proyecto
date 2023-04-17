@@ -14,11 +14,11 @@ Realmente, lo que buscamos con este proyecto es traer una nueva faceta dentro de
  
 -  Al iniciar la aplicación, lo primero que vamos a visualizar es el login de la misma. Este es el lugar en el que iniciarán sesión los usuarios previamente registrados en al base de datos del Sistema de Ventas, evidentemente con su usuario y contraseña. En esta gran interfaz podremos visualizar a la derecha una imagen representativa de los sistemas de ventas en general y a la izquierda los campos de entrada de datos, en los cuales se van a ingresar las credenciales correspondientes de forma adecuada. Asimismo, hay que destacar que en la en la parte inferior de los campos, se evidencia un botón que dice [Iniciar] que nos va a permitir acceder al sistema, luego de haber colocado nuestros datos previamente. 
  
-####  **	Página Principal del Sistema. **
+####  **Página Principal del Sistema.**
  ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-16%20at%2012.32.54%20AM.jpeg?raw=true)
   -  En esta ventana es en donde se pueden realizar los distintos tipos de registros de las facturas de los pedidos ejecutados por los clientes de forma directa y específica. Como podemos observar, en la interfaz se presentan varios campos requeridos para poder realizar el proceso de facturación correctamente, como bien lo son el código, la descripción, la cantidad, y demás. Cabe destacar, que aquí podemos visualizar en la parte inferior derecha un pequeño mensaje que nos indica el monto a pagar de la factura, asimismo, tenemos un botón de imprimir facturas, al momento de finalizar su registro dentro del sistema, la cual nos devolverá un PDF con la información correspondiente a los pedidos del cliente. También tenemos una opción de eliminar la factura por completo del sistema, en caso de que esta ya no sea requerida. 
 
-#### **	Registro de los productos or Articulos de la Ferreteria**
+#### **Registro de los productos or Articulos de la Ferreteria**
 
  ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-16%20at%2012.05.04%20AM.jpeg?raw=true)
 - Al ingresar a esta grandiosa aplicación se muestra la ventana principal de la misma, en la cual encontramos un menú de navegación bastante completo y fácil de utilizar. En la parte superior de la misma podemos encontrar varios botones, como bien lo son: [Nueva Venta] este sirve para poder registrar cualquier tipo de venta que se realice dentro del sistema de forma directa
@@ -49,7 +49,7 @@ Realmente, lo que buscamos con este proyecto es traer una nueva faceta dentro de
 ####  **Registro de los Datos de la Empresa.** 
   ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-16%20at%2012.37.11%20AM.jpeg?raw=true)
 -   En esta extraordinaria ventana, es en donde se presentan los Datos sobre la Empresa a nivel general. Aquí podremos visualizar LA RUC, el nombre, el teléfono, la dirección, y demás informaciones solicitadas por los clientes de manera directa. Del mismo modo, hay que aclarar que se puede visualizar un botón “Actualizar”, el cual obviamente nos permite actualizar la información de nuestra empresa. 
-#### 	Ventana Acerca de
+#### **Ventana Acerca de**
   ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-16%20at%2012.38.34%20AM.jpeg?raw=true)
 - En esta ventana se les muestra a los usuarios todas las informaciones acerca de las personas encargadas del desarrollo de dicha aplicación, e igualmente la versión actual en la que se encuentra la aplicación. Sin mencionar que se evidencia un sencillo Manual de Usuario para comprender mejor el uso del sistema.   ````````
 

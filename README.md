@@ -53,6 +53,6 @@ Realmente, lo que buscamos con este proyecto es traer una nueva faceta dentro de
   ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-16%20at%2012.38.34%20AM.jpeg?raw=true)
 - En esta ventana se les muestra a los usuarios todas las informaciones acerca de las personas encargadas del desarrollo de dicha aplicación, e igualmente la versión actual en la que se encuentra la aplicación. Sin mencionar que se evidencia un sencillo Manual de Usuario para comprender mejor el uso del sistema.   ````````
 
-#### **participantes**
+#### **Autor**
 
-Maykel Thomas - Creacion del codigo
+Maykel Thomas - Creacion del Sistema

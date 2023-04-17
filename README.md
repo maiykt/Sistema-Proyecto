@@ -34,3 +34,21 @@ Realmente, lo que buscamos con este proyecto es traer una nueva faceta dentro de
 -  En esta parte es en donde se puede realizar cualquier tipo de reserva de pedidos dentro del sistema, esto mediante el llenado de un formulario en el cual se solicitan datos como el nombre, la dirección, el teléfono, y demás aspectos. Cabe destacar, que dentro de esta interfaz se presentar 3 botones, uno que nos sirve para eliminar cualquier tipo de reserva que ya no deseemos utilizar, uno que nos permite agregar nuevas reservas de pedidos de una forma directa, e igualmente uno que nos permite guardar nuevas reservas, luego de haberlas agregado. Es decir, es prácticamente un conjunto de pasos que nos permiten almacenar o eliminar reservas. 
 
 
+#### 	Registro de Historial de Ventas. 
+ ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-16%20at%2010.19.56%20PM.jpeg?raw=true)
+
+- En esta ventana se nos presenta una información bastante valiosa del sistema, la cual es el historial de ventas de este, el cual nos permite visualizar todos lo que se ha vendido a nivel general. En esta parte, se pueden apreciar las informaciones de ID, Cliente, vendedor y demás, con el propósito de poder verificar correctamente todas y cada una de las ventas realizadas. Asimismo, es muy importante aclarar que hay un botón que nos permite imprimir el registro de historial de ventas en un documento PDF de una manera bastante sencilla y específica. 
+
+#### 	Registro de Nuevos Usuarios en el Sistema. 
+ ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-16%20at%2012.38.09%20AM.jpeg?raw=true)
+
+-  En esta espectacular ventana es en donde se pueden registrar las credenciales de nuevos usuarios dentro del sistema, esto con el propósito de que los mismos puedan acceder al login sin ningún tipo de inconvenientes de forma general. Cabe destacar, que los campos requeridos son: Nuevo Usuario, Contraseña, Nombre Completo, e igualmente, el Rol que tendrá dentro del sistema, es decir, si va a ser un administrador o un asistente dentro del mismo, es bueno aclarar esto, debido a que los administradores tienen acceso a todas las ventanas del sistema, en cambio, los asistentes solo cuentan con el acceso a algunas de estas. 
+
+- En este mismo aspecto, hay que resaltar que se puede apreciar un botón que dice “Registrar” en la interfaz, y este nos sirve para poder añadir cualquier tipo de usuarios dentro del sistema, luego de que este ya haya llenado los campos correspondientes de la manera adecuada.
+
+####  	Registro de los Datos de la Empresa. 
+  ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-16%20at%2012.37.11%20AM.jpeg?raw=true)
+-   En esta extraordinaria ventana, es en donde se presentan los Datos sobre la Empresa a nivel general. Aquí podremos visualizar LA RUC, el nombre, el teléfono, la dirección, y demás informaciones solicitadas por los clientes de manera directa. Del mismo modo, hay que aclarar que se puede visualizar un botón “Actualizar”, el cual obviamente nos permite actualizar la información de nuestra empresa. 
+#### 	Ventana Acerca de
+  ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-16%20at%2012.38.34%20AM.jpeg?raw=true)
+- En esta ventana se les muestra a los usuarios todas las informaciones acerca de las personas encargadas del desarrollo de dicha aplicación, e igualmente la versión actual en la que se encuentra la aplicación. Sin mencionar que se evidencia un sencillo Manual de Usuario para comprender mejor el uso del sistema.   ````````

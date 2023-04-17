@@ -1,5 +1,5 @@
 
-##Proyecto Final de Programación
+### **Proyecto Final de Programación**
 
 
 Concepto de la solución y motivo de elección de la misma. 
@@ -9,7 +9,7 @@ Para iniciar, deseamos mencionar que nuestro proyecto se llama **Tornikeus**, el
 En este mismo aspecto, queremos aclarar que el motivo de esta elección es que dentro de los sectores en los que residimos, la gran mayoría de las ferreterías no poseen buenos sistemas para la gestión de sus ventas, por lo que, a raíz de esta situación, decidimos investigar acerca del tema en varios lugares de nuestras comunidades, y al hacerlo notamos que realmente existe una decadencia en cuanto a los registros dentro de los sistemas de ventas en las ferreterías, por lo tanto, tomamos este hecho como inspiración para realizar este impresionante programa, que busca revolucionar los sistemas de esta índole y representar una gran innovación dentro de los mismos de una forma extraordinaria, esto a causa de que el mismo cuenta con una interfaz amigable para los usuarios, y también cuenta un proceso de implementación bastante sencillo y a la vez completo. 
 
 Realmente, lo que buscamos con este proyecto es traer una nueva faceta dentro de los sistemas de ventas, la cual evidencie factores como la sencillez y la innovación
-### **	Login del Sistema Tornikeus** 
+### **Login del Sistema Tornikeus**
  ![](https://github.com/maiykt/erwerewr/blob/main/WhatsApp%20Image%202023-04-15%20at%2011.56.25%20PM.jpeg?raw=true) 
  
 -  Al iniciar la aplicación, lo primero que vamos a visualizar es el login de la misma. Este es el lugar en el que iniciarán sesión los usuarios previamente registrados en al base de datos del Sistema de Ventas, evidentemente con su usuario y contraseña. En esta gran interfaz podremos visualizar a la derecha una imagen representativa de los sistemas de ventas en general y a la izquierda los campos de entrada de datos, en los cuales se van a ingresar las credenciales correspondientes de forma adecuada. Asimismo, hay que destacar que en la en la parte inferior de los campos, se evidencia un botón que dice [Iniciar] que nos va a permitir acceder al sistema, luego de haber colocado nuestros datos previamente. 
